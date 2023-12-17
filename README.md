@@ -3,7 +3,7 @@
 ## How to use
 1. Install the [Tampermonkey browser extension](https://www.tampermonkey.net/).
 2. Visit [this link](https://raw.githubusercontent.com/ewanhowell5195/classic.minecraft.net-resourcepacks/master/script.user.js) and install the user script.
-3. Visit https://classic.minecraft.net/
+3. Visit https://classic.minecraft.net/ and play!
 
 ## Resource packs
 
