@@ -14,4 +14,4 @@ You can change resource packs by providing a `pack` parameter in the URL. For ex
 Submissions are allowed, feel free to submit them!
 
 ## Please note
-Load times will be increased while this is installed
+Load times will be increased while this is installed.
