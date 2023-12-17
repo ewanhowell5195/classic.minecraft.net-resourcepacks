@@ -6,8 +6,8 @@
 // @author       Ewan Howell
 // @match        https://classic.minecraft.net/*
 // @icon         https://ewanhowell.com/assets/images/logo/logo.webp
-// @updateURL    https://raw.githubusercontent.com/ewanhowell5195/classic.minecraft.net-resourcepacks/master/script.js
-// @downloadURL  https://raw.githubusercontent.com/ewanhowell5195/classic.minecraft.net-resourcepacks/master/script.js
+// @updateURL    https://raw.githubusercontent.com/ewanhowell5195/classic.minecraft.net-resourcepacks/master/script.user.js
+// @downloadURL  https://raw.githubusercontent.com/ewanhowell5195/classic.minecraft.net-resourcepacks/master/script.user.js
 // ==/UserScript==
 
 const pack = "dokucraft"
