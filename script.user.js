@@ -8,6 +8,7 @@
 // @icon         https://ewanhowell.com/assets/images/logo/logo.webp
 // @updateURL    https://raw.githubusercontent.com/ewanhowell5195/classic.minecraft.net-resourcepacks/master/script.user.js
 // @downloadURL  https://raw.githubusercontent.com/ewanhowell5195/classic.minecraft.net-resourcepacks/master/script.user.js
+// @grant        none
 // ==/UserScript==
 
 const pack = "dokucraft"
