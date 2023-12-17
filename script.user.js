@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         classic.minecraft.net Resource Packs
 // @namespace    https://github.com/ewanhowell5195/classic.minecraft.net-resourcepacks
-// @version      1.0.0
+// @version      1.1.0
 // @description  Resource Packs for classic.minecraft.net
 // @author       Ewan Howell
 // @match        https://classic.minecraft.net/*
@@ -11,7 +11,7 @@
 // @grant        none
 // ==/UserScript==
 
-const pack = "dokucraft"
+const pack = new URL(location).searchParams.get("pack") ?? "dokucraft"
 const source = "https://raw.githubusercontent.com/ewanhowell5195/classic.minecraft.net-resourcepacks"
 
 class newImage extends Image {
