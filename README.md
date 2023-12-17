@@ -1,5 +1,9 @@
 # classic.minecraft.net Resource Packs
 
+Resource Packs for classic.minecraft.net
+
+![Screenshot of blocks using the Dokucraft resource pack.](https://raw.githubusercontent.com/ewanhowell5195/classic.minecraft.net-resourcepacks/master/screenshot.png)
+
 ## How to use
 1. Install the [Tampermonkey browser extension](https://www.tampermonkey.net/).
 2. Visit [this link](https://raw.githubusercontent.com/ewanhowell5195/classic.minecraft.net-resourcepacks/master/script.user.js) and install the user script.
